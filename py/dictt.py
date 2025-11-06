@@ -22,3 +22,7 @@ for s in person.values():
 for key,value in person.items():
     print(key,":",value["marks"])
 print([person[s]["marks"]for s in person])
+
+person.update({"std4":{"name":"jeslin","dept":"chemical","marks":100}})
+for s in person.values():
+    print(f"the students {s["name"]} and thier mark is {s["marks"]}")
