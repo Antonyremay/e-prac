@@ -8,8 +8,8 @@ def fac(n):
 # print(fac(n))
 count=int(input("count : "))
 for i in range(count):
-   numb=int(input("Munber PLs = "))
-   print(fac(numb))
+   n=int(input("Munber PLs = "))
+   print(fac(n))
 
 #or
 # def fac(n):
