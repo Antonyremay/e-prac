@@ -8,9 +8,9 @@ ma=liss(n)[0]
 for i in liss(n):
     sum=sum+i
 for i in liss(n):
-    if i<mi:
+    if mi>i:
         mi=i
-    if i>ma:
+    if ma<i:
         ma=i
 print("Sum:",sum)
 print("Min:",mi)
