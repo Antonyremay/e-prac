@@ -1,0 +1,8 @@
+the farenheit degree is 30446.222
+the farenheit degree is 101316.992
+the farenheit degree is 141726.236
+the farenheit degree is 154482.18800000002
+the farenheit degree is 103148.31199999999
+the minimum degree is 30446.222
+the maximum degree is 154482.18800000002
+the logged time is 2025-11-09 21:54:16.753269

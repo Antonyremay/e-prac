@@ -1,5 +1,5 @@
 import math
-def geo(times):
+def geo(times=5):
     try:
         filename=input("enter the filename:")
         frq={}
