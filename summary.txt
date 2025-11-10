@@ -1,0 +1,10 @@
+learning: 8
+the: 5
+and: 5
+you: 4
+about: 3
+is: 3
+your: 3
+more: 3
+let’s: 3
+of: 2
