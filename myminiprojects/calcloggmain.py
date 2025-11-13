@@ -1,6 +1,4 @@
 from calclogg import mess
-import math
-import time
 
 def mat():
     try:
