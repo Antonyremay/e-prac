@@ -76,8 +76,8 @@ pprint.pprint(employees)
 for s in employees.values():
     if s["rank"]<4:
         print(s["name"], "is elite")
-count=5
+count=0
 for s in employees.values():
-    if s==["role"]:
+    if "name" in s:
         count+=1
 print(count)

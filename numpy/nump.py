@@ -1,5 +1,4 @@
 import numpy as np
-import random
 try:
     print(a:=np.arange(9).reshape(3,3))
     (b:=(a[1,2]))
