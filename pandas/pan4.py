@@ -1,7 +1,7 @@
 import pandas as pd
 df=pd.read_csv(r"pandas\coffedata.csv")
 
-print(df[(df["coffee_name"]=="Latte") & (df["Monthsort"]==5)].head(10))
+print(df[df["coffee_name"]=="Latte"]["Monthsort"].value_counts())
 print(df.shape)
 print(df.columns.to_list())
 print(df["coffee_name"].unique())
